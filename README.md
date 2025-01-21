@@ -1,2 +1,2 @@
 # Lexical-and-Syntax-Analyzer
-Labwork for Course Compile Principal
+check master branch plz. Can't be bothered to change it.
